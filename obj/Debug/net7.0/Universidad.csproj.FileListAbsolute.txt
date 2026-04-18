@@ -279,3 +279,4 @@ C:\Users\uriel\Desktop\Programas\Universidad\bin\Debug\net7.0\runtimes\win\lib\n
 C:\Users\uriel\Desktop\Programas\Universidad\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\uriel\Desktop\Programas\Universidad\obj\Debug\net7.0\Universidad.csproj.AssemblyReference.cache
 C:\Users\uriel\Desktop\Programas\Universidad\obj\Debug\net7.0\Universidad.csproj.CopyComplete
+C:\Users\uriel\Desktop\Programas\Universidad\obj\Debug\net7.0\Universidad.sourcelink.json
